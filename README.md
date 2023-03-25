@@ -9,4 +9,3 @@ Then I've started working at Socienta as a software developer, mainly in Angular
 * [LinkedIn](https://www.linkedin.com/in/albeniraouf/)
 * [Portfolio](https://albeniraouf.github.io/Portfolio/)
 * [Facebook](https://www.facebook.com/albeniraouf/)
-* [Portfolio](https://albeniraouf.github.io/Portfolio/)
