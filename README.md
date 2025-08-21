@@ -1,10 +1,7 @@
 # Hi, I'm Raouf Albeni
-I'm an information engineering student.<br>
-I work as a software developer especially in web development.<br>
-I'm very passionate, fast learner, multitasker and hardworker.<br>
-I started my career while studying, and I've started as a programming languages teacher, and I was writing programming lectures.<br>
-Then I've started working at Socienta as a software developer, mainly in Angular, Node, Express and PostgreSQL.<br>
-Now I've promoted to Team Lead position. 
+I am a dedicated Information Engineering student and an accomplished Full-Stack Software Developer, leading a high-performing team with a focus on cutting-edge web development solutions. With extensive experience in delivering robust, scalable applications, I excel in architecting end-to-end systems that drive innovation and efficiency.
+
+My passion for technology fuels my ability to rapidly adapt to new challenges, master emerging tools, and deliver superior results under pressure. I am committed to pushing boundaries, fostering collaboration, and consistently producing high-quality, impactful work.
 
 # My Links
 * [LinkedIn](https://www.linkedin.com/in/albeniraouf/)
